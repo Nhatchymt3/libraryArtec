@@ -1,6 +1,6 @@
 using System;
 
-namespace libraryArtec.Models
+namespace XProject.WebApi.Models
 {
     public class ErrorViewModel
     {
